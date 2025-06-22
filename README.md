@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Eq52!
 
-<!--
-**Eq52/Eq52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A student passionate about programming and exploring the world of technology, especially interested in HTML and Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Interests
+- Strong interest in **HTML** and **Python**
+- Enjoy reading, cycling, and traveling
+- Love chatting with AI and discovering its possibilities
+
+---
+
+## 🌱 Motto
+> Build your own dreams, or someone else will hire you to build theirs.
+
+---
+
+## 🌐 Personal Websites
+- [eq767.github.io (archived, not planning to update)](https://eq767.github.io)
+- [ericq.rth2.xyz (current)](https://ericq.rth2.xyz)
+
+---
+
+Thanks for visiting! Feel free to connect, learn, and collaborate ✨
