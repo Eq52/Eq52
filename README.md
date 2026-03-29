@@ -19,7 +19,7 @@
 ## 🌐 Personal Websites
 - [eq767.github.io (archived, not planning to update)](https://eq767.github.io)
 - [ericq.rth2.xyz (current)](https://ericq.rth2.xyz)
-- [ericq521.web.app)[ericq521.web.app]
+- [ericq521.web.app](ericq521.web.app]
 
 ---
 
